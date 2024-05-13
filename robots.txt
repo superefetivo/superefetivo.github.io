@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /https://superefetivo.com.br/sitemap.xml
